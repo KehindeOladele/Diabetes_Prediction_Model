@@ -7,7 +7,7 @@ This is a machine learning model designed to predict the risk of diabetes based 
 ## Features
 •	Preprocessed <a href="diabetes_dataset.csv">dataset</a> for training.
 
-•	Implementation of random_forest_classifier to create model.
+•	Implementation of random_forest_classifier to create <a href="Diabetes_Prediction_Model.ipynb">model</a>.
 
 •	Evaluation of Accuracy.
 
